@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARPosterScene.unity
+    guid: ed1b56e520a8e4b40920d8e26cf86ef2
+  - enabled: 0
+    path: Assets/Scenes/ARMaskScene.unity
+    guid: 84c87a8db71074a46a0d840b4e6f6c9c
   m_configObjects: {}

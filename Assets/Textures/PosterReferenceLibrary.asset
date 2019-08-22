@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: PosterReferenceLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5726743161932999031
+  m_GuidHigh: 1730494887639540150
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5074797875573757232
+      m_GuidHigh: 11861625579347486098
+    m_SerializedTextureGuid:
+      m_GuidLow: 12982432425045825329
+      m_GuidHigh: 5794108986572687689
+    m_Size: {x: 0.21, y: 0.29652}
+    m_SpecifySize: 1
+    m_Name: jumen-mainvisual_20190523
+    m_Texture: {fileID: 2800000, guid: b75e9731dd81b42a494990be6ccf6850, type: 3}
